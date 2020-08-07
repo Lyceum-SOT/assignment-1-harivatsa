@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "Hi! I'm $(harivatsa) and today is $(date)" > prob_1.txt
